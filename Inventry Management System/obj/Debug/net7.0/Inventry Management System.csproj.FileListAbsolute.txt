@@ -1,0 +1,15 @@
+F:\.Net\Inventry Management System\bin\Debug\net7.0\Inventry Management System.exe
+F:\.Net\Inventry Management System\bin\Debug\net7.0\Inventry Management System.deps.json
+F:\.Net\Inventry Management System\bin\Debug\net7.0\Inventry Management System.runtimeconfig.json
+F:\.Net\Inventry Management System\bin\Debug\net7.0\Inventry Management System.dll
+F:\.Net\Inventry Management System\bin\Debug\net7.0\Inventry Management System.pdb
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.csproj.AssemblyReference.cache
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.AssemblyInfoInputs.cache
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.AssemblyInfo.cs
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.csproj.CoreCompileInputs.cache
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.dll
+F:\.Net\Inventry Management System\obj\Debug\net7.0\refint\Inventry Management System.dll
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.pdb
+F:\.Net\Inventry Management System\obj\Debug\net7.0\Inventry Management System.genruntimeconfig.cache
+F:\.Net\Inventry Management System\obj\Debug\net7.0\ref\Inventry Management System.dll
